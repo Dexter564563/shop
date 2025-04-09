@@ -1,0 +1,47 @@
+/* importation de la police 'Poppins' de Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;500;600;700;900&display=swap');
+
+html, body{
+   font-family: 'Poppins', sans-serif;
+}
+
+body{
+
+   background-image:url("assets/fond.jpg");
+   background-size: 100%;
+   margin: 0%;
+}
+
+.ptilogo{
+
+border-radius: 20px;
+
+}
+
+nav{
+     
+display: flex;
+background-color: white;
+
+
+}
+
+ul{
+
+display: flex;
+gap: 10%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
